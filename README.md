@@ -1,2 +1,2 @@
 # nuklear-haskell
-Haskell bindings for Nuclear graphics lib
+Haskell bindings for Nuklear graphics lib

@@ -1,0 +1,10 @@
+resolver: lts-9.21
+packages:
+- .
+# extra-deps: []
+# flags: {}
+# extra-package-dbs: []
+# system-ghc: true
+# Extra directories used by stack for building
+# extra-include-dirs: [/path/to/dir]
+# extra-lib-dirs: [/path/to/dir]
